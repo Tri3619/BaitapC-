@@ -1,0 +1,7 @@
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai_2\bin\Debug\Bai_2.exe.config
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai_2\bin\Debug\Bai_2.exe
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai_2\bin\Debug\Bai_2.pdb
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai_2\obj\Debug\Bai_2.csproj.AssemblyReference.cache
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai_2\obj\Debug\Bai_2.csproj.CoreCompileInputs.cache
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai_2\obj\Debug\Bai_2.exe
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai_2\obj\Debug\Bai_2.pdb

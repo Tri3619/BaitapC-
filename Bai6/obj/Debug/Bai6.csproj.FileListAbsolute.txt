@@ -1,0 +1,7 @@
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai6\bin\Debug\Bai6.exe.config
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai6\bin\Debug\Bai6.exe
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai6\bin\Debug\Bai6.pdb
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai6\obj\Debug\Bai6.exe
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai6\obj\Debug\Bai6.pdb

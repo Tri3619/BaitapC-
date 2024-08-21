@@ -1,0 +1,7 @@
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai3\bin\Debug\Bai3.exe
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai3\bin\Debug\Bai3.pdb
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai3\obj\Debug\Bai3.exe
+C:\Users\Trinv\OneDrive\Máy tính\HOCC#\BaitapC#\Bai3\obj\Debug\Bai3.pdb
